@@ -54,22 +54,22 @@ const Projects = () => {
       title: "ISTE App",
       description: "ISTE App is a platform designed to showcase events, updates, and resources for the ISTE student chapter. It streamlines communication and engagement between members and organizers.",
       technologies: ["Flutter", "Firebase", "Dart"],
-      githubLink: "https://github.com/yourusername/iste-app",
+      githubLink: "https://github.com/nikhill-pixel/ISTE-APP",
       imageUrl: "https://placehold.co/400x200/06B6D4/FFFFFF?text=ISTE+App"
     },
     {
       title: "Automatic Sandboxing",
       description: "The Automatic Sandboxing project isolates and analyzes suspicious files in a secure environment to detect potential threats. It automates malware detection using behavioral analysis within virtualized containers.",
       technologies: ["Python", "Flask", "Virtualization", "Security"],
-      githubLink: "https://github.com/yourusername/automatic-sandboxing",
-      imageUrl: "https://placehold.co/400x200/D97706/FFFFFF?text=Auto+Sandboxing"
+      githubLink: "https://github.com/nikhill-pixel?tab=stars",
+      imageUrl: "https://placehold.co/400x200/D97706/FFFFFF?text=Automatic+Sandboxing"
     },
     {
       title: "Sales and Inventory Management System",
       description: "A streamlined Sales and Inventory Management System that tracks stock levels, sales, and orders for efficient business operations.",
       technologies: ["React", "Node.js", "Express", "MongoDB", "CSS"],
       githubLink: "https://github.com/yourusername/sales-inventory-system",
-      imageUrl: "https://placehold.co/400x200/BE185D/FFFFFF?text=Sales+Mgmt+System"
+      imageUrl: "https://placehold.co/400x200/BE185D/FFFFFF?text=Sales+System"
     }
   ];
 

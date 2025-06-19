@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-    import './index.css'; // Main CSS file for styling
+    import './index.css'; 
     import Header from './components/Header';
     import Hero from './components/Hero';
     import About from './components/About';
@@ -17,7 +17,7 @@ import React, { useState, useEffect } from 'react';
         if (section) {
           section.scrollIntoView({ behavior: 'smooth' });
           setActiveSection(sectionId);
-          setIsMobileMenuOpen(false); // Close mobile menu after clicking a link
+          setIsMobileMenuOpen(false); 
         }
       };
 
@@ -76,7 +76,7 @@ import React, { useState, useEffect } from 'react';
             </div>
           )}
 
-          <main style={{ paddingTop: '6rem' }}> {/* Adjust padding-top for header height */}
+          <main style={{ paddingTop: '6rem' }}> {}
             <Hero scrollToSection={scrollToSection} />
             <About />
             <Skills />

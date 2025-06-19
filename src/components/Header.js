@@ -1,4 +1,3 @@
-// src/components/Header.js
 import React from 'react';
 import { Home, User, Lightbulb, Briefcase, Mail } from 'lucide-react';
 

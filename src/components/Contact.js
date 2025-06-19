@@ -1,11 +1,10 @@
 import React from 'react';
-import { Mail, Linkedin, Github } from 'lucide-react'; // Removed Twitter import
+import { Mail, Linkedin, Github } from 'lucide-react'; 
 
 const Contact = () => {
   const email = "nikhilagarwal.231it044@nitk.edu.in";
-  const linkedin = "https://www.linkedin.com/in/nikhil2212"; // Corrected LinkedIn format
+  const linkedin = "https://www.linkedin.com/in/nikhil2212"; 
   const github = "https://github.com/nikhill-pixel";
-  // Removed twitter constant
 
   return (
     <section id="contact" className="contact-section">
@@ -47,7 +46,7 @@ const Contact = () => {
               <Github size={36} />
             </a>
           )}
-          {/* Twitter link block removed */}
+          {}
         </div>
       </div>
     </section>
