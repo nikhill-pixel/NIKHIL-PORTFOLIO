@@ -61,14 +61,14 @@ const Projects = () => {
       title: "Automatic Sandboxing",
       description: "The Automatic Sandboxing project isolates and analyzes suspicious files in a secure environment to detect potential threats. It automates malware detection using behavioral analysis within virtualized containers.",
       technologies: ["Python", "Flask", "Virtualization", "Security"],
-      githubLink: "https://github.com/nikhill-pixel?tab=stars",
+      githubLink: "https://github.com/CodePokeX/Process-Sandboxing-using-Docker-and-Seccomp",
       imageUrl: "https://placehold.co/400x200/D97706/FFFFFF?text=Automatic+Sandboxing"
     },
     {
       title: "Sales and Inventory Management System",
       description: "A streamlined Sales and Inventory Management System that tracks stock levels, sales, and orders for efficient business operations.",
       technologies: ["React", "Node.js", "Express", "MongoDB", "CSS"],
-      githubLink: "https://github.com/yourusername/sales-inventory-system",
+      githubLink: "https://github.com/SSAHARIA77/SalesInventoryManagement",
       imageUrl: "https://placehold.co/400x200/BE185D/FFFFFF?text=Sales+System"
     }
   ];
