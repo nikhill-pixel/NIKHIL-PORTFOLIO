@@ -47,7 +47,7 @@ const Projects = () => {
       title: "AI Job Tracker",
       description: "AI Job Tracker is a web app that helps users manage and track their job applications efficiently. It uses AI to organize, analyze, and optimize the job search process.",
       technologies: ["EJS", "Node.js", "Express.js", "MongoDB", "CSS"],
-      githubLink: "https://github.com/yourusername/ai-job-tracker",
+      githubLink: "https://github.com/nikhill-pixel?tab=stars",
       imageUrl: "https://placehold.co/400x200/4F46E5/FFFFFF?text=AI+Job+Tracker"
     },
     {
@@ -58,17 +58,17 @@ const Projects = () => {
       imageUrl: "https://placehold.co/400x200/06B6D4/FFFFFF?text=ISTE+App"
     },
     {
-      title: "Automatic Sandboxing",
+      title: "Automated Sandboxing",
       description: "The Automatic Sandboxing project isolates and analyzes suspicious files in a secure environment to detect potential threats. It automates malware detection using behavioral analysis within virtualized containers.",
-      technologies: ["Python", "Flask", "Virtualization", "Security"],
-      githubLink: "https://github.com/CodePokeX/Process-Sandboxing-using-Docker-and-Seccomp",
+      technologies: ["Python", "Containerization", "Security"],
+      githubLink: "https://github.com/nikhill-pixel?tab=stars",
       imageUrl: "https://placehold.co/400x200/D97706/FFFFFF?text=Automatic+Sandboxing"
     },
     {
       title: "Sales and Inventory Management System",
       description: "A streamlined Sales and Inventory Management System that tracks stock levels, sales, and orders for efficient business operations.",
-      technologies: ["React", "Node.js", "Express", "MongoDB", "CSS"],
-      githubLink: "https://github.com/SSAHARIA77/SalesInventoryManagement",
+      technologies: ["MySQL", "PHP"],
+      githubLink: "https://github.com/nikhill-pixel/SALES-AND-INVENTORY-MANAGEMENT-SYSTEM",
       imageUrl: "https://placehold.co/400x200/BE185D/FFFFFF?text=Sales+System"
     }
   ];
