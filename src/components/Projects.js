@@ -61,7 +61,7 @@ const Projects = () => {
       title: "Automated Sandboxing",
       description: "The Automatic Sandboxing project isolates and analyzes suspicious files in a secure environment to detect potential threats. It automates malware detection using behavioral analysis within virtualized containers.",
       technologies: ["Python", "Containerization", "Security"],
-      githubLink: "https://github.com/nikhill-pixel?tab=stars",
+      githubLink: "https://github.com/nikhill-pixel/AUTOMATED-SANBOXING",
       imageUrl: "https://placehold.co/400x200/D97706/FFFFFF?text=Automatic+Sandboxing"
     },
     {

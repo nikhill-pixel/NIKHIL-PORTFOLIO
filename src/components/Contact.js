@@ -2,7 +2,7 @@ import React from 'react';
 import { Mail, Linkedin, Github } from 'lucide-react'; 
 
 const Contact = () => {
-  const email = "nikhilagarwal.231it044@nitk.edu.in";
+  const email = "nikhilagarwal24242424@gmail.com";
   const linkedin = "https://www.linkedin.com/in/nikhil2212"; 
   const github = "https://github.com/nikhill-pixel";
 
