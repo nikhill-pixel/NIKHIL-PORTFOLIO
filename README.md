@@ -30,17 +30,6 @@ It showcases my profile, education, skills, projects, and ways to connect with m
 
 ---
 
-## 🛠 Installation
-
-To run this project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
-
-# Install dependencies
-npm install
 
 # Run the app
 npm start
