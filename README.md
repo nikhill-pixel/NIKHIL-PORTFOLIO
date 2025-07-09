@@ -29,7 +29,3 @@ It showcases my profile, education, skills, projects, and ways to connect with m
 - ✅ Clean and minimalistic UI
 
 ---
-
-
-# Run the app
-npm start
